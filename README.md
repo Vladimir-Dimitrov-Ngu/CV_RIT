@@ -87,7 +87,7 @@
 
 
 ## Contributing
-Copy of the [`contributing.md`]().
+Copy of the [`contributing.md`](https://github.com/Vladimir-Dimitrov-Ngu/CV_RIT/blob/master/contributing.md).
 
 ## Conclusion
 Предлагаемая система видеонаблюдения создает комплексное решение для мониторинга и повышения безопасности в пределах отведенной зоны. 
@@ -96,7 +96,7 @@ Copy of the [`contributing.md`]().
 
 [Презентация продукта](presentation/Видеоаналитика.pptx)
 
-[Техническое описание](presentation/Техническое описание системы видеонаблюдения.docx)
+[Техническое описание](presentation/Техническое_описание_системы_видеонаблюдения.docx)
 
 ## Authors
 - [Vladimir Dimitrov](https://github.com/Vladimir-Dimitrov-Ngu)
